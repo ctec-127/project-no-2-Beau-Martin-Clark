@@ -5,3 +5,12 @@ body {
     margin: 0;
     padding: 0;
 }
+
+header {
+    color:#ffffff;
+    background-color: #000000;
+}
+
+footer {
+    color:#ffffff;
+    background-color: #000000;}
